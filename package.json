@@ -1,0 +1,21 @@
+{
+  "name": "netrixis-blue",
+  "displayName": "NetrixIs Blue",
+  "description": "The dark blue theme for VSCode",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.93.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "NetrixIs Blue",
+        "uiTheme": "vs-dark",
+        "path": "./themes/NetrixIs Blue-color-theme.json"
+      }
+    ]
+  }
+}
