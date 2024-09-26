@@ -3,6 +3,11 @@
   "displayName": "NetrixIs Blue",
   "description": "The dark blue theme for VSCode",
   "version": "0.0.1",
+  "publisher": "NetrixIs",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/NetrixIs1/netrixis-blue-color-theme"
+  },
   "engines": {
     "vscode": "^1.93.0"
   },
